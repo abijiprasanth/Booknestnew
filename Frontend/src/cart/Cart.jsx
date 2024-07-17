@@ -35,3 +35,5 @@ function Cart() {
 }
 
 export default Cart;
+// this is cart page
+
