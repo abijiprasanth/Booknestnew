@@ -21,6 +21,7 @@ import Adminusers from './Admin/Adminusers.jsx';
 import Adminseller from './Admin/Adminseller.jsx';
 import AdminOrders from './Admin/AdminOrders.jsx';
 import Sellerorders from './seller/Sellerorders.jsx';
+import AdminBooks from './Admin/AdminBooks.jsx';
 
 function App() {
   return (
@@ -47,6 +48,7 @@ function App() {
         <Route path="/adminsellers" element = {<Adminseller/>}/>
         <Route path="/adminorders" element = {<AdminOrders/>}/>
         <Route path="/sellerorders" element = {<Sellerorders/>}/>
+        <Route path="/adminbooks" element = {<AdminBooks/>}/>
         
 
       </Routes>

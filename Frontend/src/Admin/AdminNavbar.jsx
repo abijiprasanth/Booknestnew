@@ -58,6 +58,7 @@ export default function AdminNavbar() {
             <li><a href='/adminusers'>Users</a></li>
             <li><a href='/adminsellers'>Sellers</a></li>
             <li><a href='/adminorders'>Track Orders</a></li>
+            <li><a href='/adminbooks'>Books</a></li>
             </ul>
             
         </div>
