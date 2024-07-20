@@ -74,8 +74,8 @@ export default function SellerNavbar() {
                   onClick={() => {
                     document.getElementById('my_modal_3').showModal();
                   }}
-                >
-                  Login
+                ><a href = '/sellerlogin'>
+                  Login</a>
                 </button>
               )}     
         </div>
